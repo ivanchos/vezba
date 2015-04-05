@@ -1,2 +1,3 @@
 # vezba
-repo za vezbu
+repo za vezbu - opis repozitorija
+dodat 1 red
