@@ -4,8 +4,3 @@ x
 x
 x
 x
-
-y
-y
-y
-y
