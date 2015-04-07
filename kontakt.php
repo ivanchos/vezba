@@ -1,4 +1,11 @@
 sadfsadf kontakt podaci
 telefon 0123456789
+x
+x
+x
+x
 
-qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+y
+y
+y
+y
