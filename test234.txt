@@ -3,3 +3,4 @@ nema testa vise
 
 izmena u okviru master grane
 dodato t u master grani
+dodato f u master grani
